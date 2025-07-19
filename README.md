@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm [**Hassan**](https://hassannaveed.com), a technical consultant from Toronto Canada.
+I'm [**Hassan**](https://hassannaveed.com), a technical consultant from Toronto, Canada.
 
 I currently work as a technical consultant at [**@SonarSoftware**](https://github.com/sonarsoftwareinc), where I serve as the primary technical liaison between clients and the Sonar team, advising on best practices and ensuring efficient communication to enhance client experience and satisfaction. Previously, I was at [**@Oracle**](https://github.com/oracle) and [**@A3logics**](https://www.a3logics.com/).
 
