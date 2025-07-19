@@ -2,7 +2,7 @@
 
 I'm [**Hassan**](https://hassannaveed.com), a technical consultant from Toronto, Canada.
 
-I currently work as a technical consultant at [**@SonarSoftware**](https://github.com/sonarsoftwareinc), where I serve as the primary technical liaison between clients and the Sonar team, advising on best practices and ensuring efficient communication to enhance client experience and satisfaction. Previously, I was at [**@Oracle**](https://github.com/oracle) and [**@A3logics**](https://www.a3logics.com/).
+I currently work as a technical consultant at [**@SonarSoftware**](https://github.com/sonarsoftwareinc), where I serve as the primary technical liaison between clients and the Sonar team, advising on best practices and ensuring efficient communication to enhance client experience and satisfaction. I assist clients in setting up integrations and facilitate the migration of client data from their previous billing software. Previously, I was at [**@Oracle**](https://github.com/oracle) and [**@A3logics**](https://www.a3logics.com/).
 
 I'm fascinated by large-scale, high-impact products and have worked on industry-leading services. I have contributed to major feature launches and automating systems in customer-facing consoles with high traffic.
 
